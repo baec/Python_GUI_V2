@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-# This needs to be documented!!!!
 from tkinter import *
 from tkinter import ttk
 from math import sqrt
@@ -292,4 +290,6 @@ if __name__ == "__main__":
    app = RecGUI(top)
    
    top.mainloop()
+    
+
       
